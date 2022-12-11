@@ -25,6 +25,11 @@ Enjoy!
 
 Note: This game does not have any real money gambling and is only for fun, please gamble responsibly.
 
+Character pixel art by DeepDiveGameStudio!
+Pixel Art for levels 2, 3 & 5 by Joe Gallegos! 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/8818749/206879971-a747e69f-631a-4c62-8fac-357967a743de.png)
 
 ![image](https://user-images.githubusercontent.com/8818749/206879926-b7e187de-33b9-4bf2-b2eb-7cdc3f29a066.png)
