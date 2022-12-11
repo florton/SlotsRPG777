@@ -9,7 +9,7 @@ or email me @ flanders.lorton@gmail.com
 ### Features:
 
 ### - 5 Unique Levels!
-### - 55 Enemies, 10 Bosses!
+### - 55 Possible Enemies, 10 Possible Bosses!
 ### - 4 Playable Characters!
 ### - 11 Themed Slot Machines!
 ### - Plus 4 Minigames & Bonus Wheel!
