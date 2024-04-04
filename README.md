@@ -2,7 +2,7 @@
 
 Copyright Flanders Lorton 2022 ©
 
-# Now Play Online! At: http://www.slotsrpg.com/
+# Now Play Online! At: [http://www.slotsrpg.com/](http://handcrafted.industries/slotsrpg/index.html)
 
 ## Version 0.91 Pre-Alpha Builds Up Now! - Download Above ^
 If you find bugs please make a github issue!
